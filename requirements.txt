@@ -1,0 +1,19 @@
+# --- Transcription (local Whisper) ---
+openai-whisper
+torch
+numpy
+
+# --- Audio download / processing (requires FFmpeg on PATH) ---
+yt-dlp
+pydub
+
+# --- LLM pipeline (LangChain LCEL + Mistral) ---
+langchain-core>=0.3
+langchain-mistralai>=0.2
+pydantic>=2.0
+
+# --- Config ---
+python-dotenv
+
+# --- UI for file uploads (swap for gradio if preferred) ---
+streamlit

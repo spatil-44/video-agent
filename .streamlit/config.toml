@@ -1,0 +1,32 @@
+[theme]
+base = "dark"
+primaryColor = "#8B9DFF"
+backgroundColor = "#0D111C"
+secondaryBackgroundColor = "#151B29"
+codeBackgroundColor = "#111724"
+textColor = "#EEF1FA"
+linkColor = "#A9B6FF"
+borderColor = "#283143"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "10px"
+buttonRadius = "8px"
+font = "sans-serif"
+codeFont = "monospace"
+codeFontSize = "0.875rem"
+codeTextColor = "#DCE3F5"
+baseFontSize = 15
+baseFontWeight = 400
+headingFontSizes = ["40px", "32px", "26px", "21px", "17px", "15px"]
+headingFontWeights = [700, 650, 600, 600, 550, 500]
+linkUnderline = false
+greenColor = "#54D6A0"
+yellowColor = "#F2C879"
+redColor = "#FF7D8B"
+blueColor = "#81A8FF"
+violetColor = "#B39BFF"
+
+[theme.sidebar]
+backgroundColor = "#111724"
+secondaryBackgroundColor = "#0D111C"
+borderColor = "#283143"
